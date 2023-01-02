@@ -1,1 +1,1 @@
-<img src="img/github-header-image.png" width="100%">
+<img src="img/gh-banner.png" width="100%">

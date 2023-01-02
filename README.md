@@ -2,6 +2,8 @@
 
 Software Engineer specialising in Python. Interested in AI and Machine Learning.
 
+Contact: juancoquet@gmail.com
+
 See [my website](https://www.juancoquet.com) for more information!
 
 <h1 align="center">Projects</h1>
@@ -85,3 +87,9 @@ See [my website](https://www.juancoquet.com) for more information!
     </td>
   </tr>
 </table>
+
+<h1 align="center">Languages and Tools:</h1>
+<p align="center">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> AWS
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> CSS
+</p>

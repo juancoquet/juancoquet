@@ -1,4 +1,4 @@
-<img src="img/gh-banner.png" width="100%">
+<img src="img/github-header-image.png" width="100%">
 
 Software Engineer specialising in Python. Interested in AI and Machine Learning.
 

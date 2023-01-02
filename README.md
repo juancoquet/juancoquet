@@ -51,7 +51,7 @@ See [my website](https://www.juancoquet.com) for more information!
       <h3 align="center">Note Adder</h3>
         <br />
         <a target="_blank" href="http://www.noteadder.com">
-            <img src="https://camo.githubusercontent.com/c833765a639b8cb091893a21e888bbc4cd993320684c0dd1add9b3a1c891d34e/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f706f6c792d73637265656e73686f74732e616e67656c2e636f2f50726f6a6563742f65612f313335323930382f32376265616261613035393731336438616238663732616637326536633665322d6f726967696e616c2e706e67" width="100%" alt="Goal Lens"/>
+            <img src="https://camo.githubusercontent.com/46eb8c0e4909c76ef8906f79c6558dddb2667fa0ec248b7fce824bfe77c476a2/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f706f6c792d73637265656e73686f74732e616e67656c2e636f2f50726f6a6563742f31392f313335323931392f66316465653031343336336136353332363664633630366331646462313836302d6f726967696e616c2e706e67" width="100%" alt="Note Adder"/>
         </a>
         <br />
         <p align="center">
@@ -60,7 +60,7 @@ See [my website](https://www.juancoquet.com) for more information!
     <img src="https://img.shields.io/static/v1?logo=github&label=&message=repo&color=blue&style=flat-square"/>
   </a>  
   <a href="http://www.noteadder.com" target="_blank">
-    <img src="https://camo.githubusercontent.com/46eb8c0e4909c76ef8906f79c6558dddb2667fa0ec248b7fce824bfe77c476a2/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f706f6c792d73637265656e73686f74732e616e67656c2e636f2f50726f6a6563742f31392f313335323931392f66316465653031343336336136353332363664633630366331646462313836302d6f726967696e616c2e706e67"/>
+    <img src="https://img.shields.io/static/v1?label=visit&message=live&color=success&style=flat-square"/>
   </a>
       </p>
         <p><strong>JavaScript, Python, Django, Docker, Node.js, HTML, CSS</strong> – An audiovisual tool to help beginner musicians learn and develop intuitions about rhythmic music notation.</p>
